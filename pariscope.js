@@ -10,26 +10,26 @@
 // parameters //
 
 // optics
-var phoneToLenses = 2;
-var lensRadius = 1;
+var phoneToLenses = 20;
+var lensRadius = 10;
 
 // head measurements
-var browDepth = 3.5;
-var cheekDepth = 1.5;
+var browDepth = 35;
+var cheekDepth = 15;
 
 // phone measurements
-var phoneWidth = 6;
-var phoneLength = 2.5;
-var phoneThickness = 0.4;
+var phoneWidth = 60;
+var phoneLength = 25;
+var phoneThickness = 4;
 
 // material measurements
-var rubberbandWidth = 0.5;
-var rubberbandCutThickness = 0.05;
-var cardboardThickness = 0.1;
-var plexiglassThickness = 0.1;
+var rubberbandWidth = 5;
+var rubberbandCutThickness = 0.5;
+var cardboardThickness = 1;
+var plexiglassThickness = 1;
 
 // structural measurements
-var rubberbandLoopWidth = 0.2;
+var rubberbandLoopWidth = 2;
 
 // design //
 function main() {
